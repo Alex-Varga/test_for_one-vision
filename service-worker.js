@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test_for_one-vision/precache-manifest.09fb852febe6ac48923a5921d604d2b2.js"
+  "/test_for_one-vision/precache-manifest.729337f1d6e93ed793b34bd7d67f9010.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "one-vision"});
